@@ -7,13 +7,13 @@ A high-performance, customizable implementation of Sparse Attention for computer
 
 ## Features
 
-- 🚀 Multiple sparsity patterns (Random, Block, Strided, Axial, Longformer)
-- ⚡ Custom CUDA kernel for optimized performance
-- 📊 Built-in visualization and monitoring tools
-- 🔧 Relative and learnable positional encodings
-- 📈 Attention statistics tracking
-- 🎯 Head importance analysis for pruning
-- 🔄 Skip connections and residual learning
+- Multiple sparsity patterns (Random, Block, Strided, Axial, Longformer)
+- Custom CUDA kernel for optimized performance
+- Built-in visualization and monitoring tools
+- Relative and learnable positional encodings
+- Attention statistics tracking
+- Head importance analysis for pruning
+- Skip connections and residual learning
 
 ## Installation
 
